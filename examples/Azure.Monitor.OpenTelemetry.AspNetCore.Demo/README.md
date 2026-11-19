@@ -11,7 +11,7 @@ An ASP.NET Core application demonstrating `Microsoft.OpenTelemetry` distro usage
 
 ## Prerequisites
 
-- .NET 11 SDK and .NET 8 runtime (the demo targets `net8.0` and builds the distro from source)
+- .NET 11 SDK, plus the .NET 8 and ASP.NET Core 8 runtimes (the demo targets `net8.0` and builds the distro from source)
 - Application Insights connection string
 
 ## Configuration
